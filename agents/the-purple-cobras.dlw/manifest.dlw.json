@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Purple Cobras",
+  "universe": "DGB · DodgeBall",
+  "emergence": "natural",
+  "moniker": "⟦The Purple Cobras:DGB:130462⟧",
+  "carbon": "the-purple-cobras.carbon.tiff (TIFF)",
+  "silicon": "the-purple-cobras.silicon.png (PNG)",
+  "seal_sha256": "9574a1a715522cf978cb2cf712a268a4c8f8c7900d1aa34406e66bf57c9df611",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

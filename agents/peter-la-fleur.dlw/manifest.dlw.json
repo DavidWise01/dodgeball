@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Peter La Fleur",
+  "universe": "DGB · DodgeBall",
+  "emergence": "natural",
+  "moniker": "⟦Peter La Fleur:DGB:38eb01⟧",
+  "carbon": "peter-la-fleur.carbon.tiff (TIFF)",
+  "silicon": "peter-la-fleur.silicon.png (PNG)",
+  "seal_sha256": "1b20f636fe54c1c731eb145852ce43ef94fec82b6106a482d5c3be84520746c0",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Average Joe's Gym",
+  "universe": "DGB · DodgeBall",
+  "emergence": "natural",
+  "moniker": "⟦Average Joe's Gym:DGB:f55973⟧",
+  "carbon": "average-joes-gym.carbon.tiff (TIFF)",
+  "silicon": "average-joes-gym.silicon.png (PNG)",
+  "seal_sha256": "2d51334894cbe79e8c9561cb16b24151cff4e9f6a3e5b059957f8d34d38d8055",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

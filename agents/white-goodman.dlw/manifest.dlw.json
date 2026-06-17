@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "White Goodman",
+  "universe": "DGB · DodgeBall",
+  "emergence": "natural",
+  "moniker": "⟦White Goodman:DGB:b0aef1⟧",
+  "carbon": "white-goodman.carbon.tiff (TIFF)",
+  "silicon": "white-goodman.silicon.png (PNG)",
+  "seal_sha256": "ca3e8888a7f5c4fdc6d9e2ae010bedd56e0fcfa24b1b770489f2cc0ce0281f0e",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

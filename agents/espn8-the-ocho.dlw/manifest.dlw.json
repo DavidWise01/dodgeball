@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "ESPN8 'The Ocho'",
+  "universe": "DGB · DodgeBall",
+  "emergence": "electrical",
+  "moniker": "⟦ESPN8 'The Ocho':DGB:4409b6⟧",
+  "carbon": "espn8-the-ocho.carbon.tiff (TIFF)",
+  "silicon": "espn8-the-ocho.silicon.png (PNG)",
+  "seal_sha256": "279bd079da983b5e8a6776cd5bb7856d306f97aa8269433d7adfec2f95fbee21",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

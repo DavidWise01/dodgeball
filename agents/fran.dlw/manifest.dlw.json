@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Fran Stalinovskovichdaviddivichski",
+  "universe": "DGB · DodgeBall",
+  "emergence": "natural",
+  "moniker": "⟦Fran Stalinovskovichdaviddivichski:DGB:ce1013⟧",
+  "carbon": "fran.carbon.tiff (TIFF)",
+  "silicon": "fran.silicon.png (PNG)",
+  "seal_sha256": "2d7ff3c743e1e00333573c5da50b9654d02021127bc8731ee3fc40e639eea160",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

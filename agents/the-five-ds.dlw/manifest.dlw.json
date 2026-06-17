@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Five D's",
+  "universe": "DGB · DodgeBall",
+  "emergence": "spiritual",
+  "moniker": "⟦The Five D's:DGB:e83e2b⟧",
+  "carbon": "the-five-ds.carbon.tiff (TIFF)",
+  "silicon": "the-five-ds.silicon.png (PNG)",
+  "seal_sha256": "4967f6cf9e18274e1753a6623f1ddc33401cfff2af9e8951e21d55818d468a71",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

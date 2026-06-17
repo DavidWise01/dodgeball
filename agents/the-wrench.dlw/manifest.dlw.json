@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Wrench",
+  "universe": "DGB · DodgeBall",
+  "emergence": "electrical",
+  "moniker": "⟦The Wrench:DGB:9971da⟧",
+  "carbon": "the-wrench.carbon.tiff (TIFF)",
+  "silicon": "the-wrench.silicon.png (PNG)",
+  "seal_sha256": "24996f6a099416c775daf6489cfa851ba556dad35e8459f2b0aafb549e0eefc6",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

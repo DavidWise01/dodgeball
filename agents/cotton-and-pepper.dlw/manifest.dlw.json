@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Cotton & Pepper",
+  "universe": "DGB · DodgeBall",
+  "emergence": "spiritual",
+  "moniker": "⟦Cotton & Pepper:DGB:5b839c⟧",
+  "carbon": "cotton-and-pepper.carbon.tiff (TIFF)",
+  "silicon": "cotton-and-pepper.silicon.png (PNG)",
+  "seal_sha256": "6404ce5e3a358655184a1fee905a48d952167215eb858fd0015e3f609b7ea7fa",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

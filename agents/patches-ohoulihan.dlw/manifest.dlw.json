@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Patches O'Houlihan",
+  "universe": "DGB · DodgeBall",
+  "emergence": "spiritual",
+  "moniker": "⟦Patches O'Houlihan:DGB:81c9f4⟧",
+  "carbon": "patches-ohoulihan.carbon.tiff (TIFF)",
+  "silicon": "patches-ohoulihan.silicon.png (PNG)",
+  "seal_sha256": "dd559bfe719dffaf04ce5c03a073efee64dbd21dba720f5ef538e0383ca8a641",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

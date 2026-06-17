@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Cameos",
+  "universe": "DGB · DodgeBall",
+  "emergence": "ethereal",
+  "moniker": "⟦The Cameos:DGB:ca61f1⟧",
+  "carbon": "the-cameos.carbon.tiff (TIFF)",
+  "silicon": "the-cameos.silicon.png (PNG)",
+  "seal_sha256": "7322f60549b6198ebff595ca8f29f5357dedbb19223db4a02d2b082f51c65636",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
